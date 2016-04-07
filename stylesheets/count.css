@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 1.75em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+#like {
+    margin-left: 50px;
+}
